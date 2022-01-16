@@ -13,9 +13,9 @@ In your forked Repository you have to Create a ```<github-username>.html``` file
     <title>Document</title>
 </head>
 <body>
-    <p style="font-size:50px">Your Name</p>
-    <p style="font-size:30px">Your Roll No</p>
-    <p style="font-size:30px">Your Discord Id</p>
+    <p style="font-size:50px">Name</p>
+    <p style="font-size:30px">Roll no</p>
+    <p style="font-size:30px">DiscordID</p>
 </body>
 </html>
   ```
