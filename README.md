@@ -10,12 +10,12 @@ In your forked Repository you have to Create a ```<github-username>.html``` file
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>g0kuluppal08</title>
 </head>
 <body>
-    <p style="font-size:50px">Your Name</p>
-    <p style="font-size:30px">Your Roll No</p>
-    <p style="font-size:30px">Your Discord Id</p>
+    <p style="font-size:50px">Gokuluppal</p>
+    <p style="font-size:30px">IIT2021124</p>
+    <p style="font-size:30px">GokulUppal#6633</p>
 </body>
 </html>
   ```
